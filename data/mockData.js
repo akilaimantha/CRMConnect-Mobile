@@ -91,5 +91,5 @@ export const RECENT_ACTIVITIES = [
 export const DEMO_CREDENTIALS = {
   email: 'admin@slic.lk',
   password: 'admin123',
-  displayName: 'John Smith',
+  displayName: 'Akila Imantha',
 };
